@@ -1,0 +1,28 @@
+
+body
+{
+    width: 1800px;
+    margin:0px auto;
+    max-width: 90%;
+    background-image: url("/L6/Header.jpg");
+    background-size: 90% 275px ;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+}
+#header
+{
+    
+}
+h1
+{
+    color: rgba(50, 50, 50, 0.3);
+    text-align: center;
+    font-family: helvetica, sans-serif;
+    font-size: 130px;
+    border-style: none;
+    
+    border-color: white;
+    border-radius: 10px;
+}
