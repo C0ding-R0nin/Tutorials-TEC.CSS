@@ -1,0 +1,26 @@
+
+html
+{
+    text-align: center;
+}
+button
+{
+    margin-top: 100px;
+    padding: 10px 60px;
+    color: white;
+    border : solid 3px rgb(155, 38, 38);
+    border-radius : 5px;
+    background-color: rgb(155, 38, 38);
+    box-shadow: 0px 20px 10px -10px rgba(0, 0,0,0.4) ;
+    font-size: 20px;
+    font-family: trebuchet ms;
+    transition: ease-in-out all 300ms;
+}
+button:hover
+{
+    background-color: white;
+    color: rgb(155, 38, 38);
+    transform: translate(0px,-10px);
+    box-shadow: 0px 10px 10px -10px rgba(0, 0,0 , 0.2);
+    
+}
