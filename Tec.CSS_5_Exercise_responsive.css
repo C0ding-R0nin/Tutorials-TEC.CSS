@@ -1,28 +1,65 @@
-
-body
+html
 {
-    width: 1800px;
-    margin:0px auto;
-    max-width: 90%;
-    background-image: url("/L6/Header.jpg");
-    background-size: 90% 275px ;
-    background-position: center;
-    background-repeat: no-repeat;
-    
-
-}
-#header
-{
+    width : 960;
+    max-width: 80%;
+    margin : 10%;
+    font-family: helvetica;
     
 }
-h1
+a
 {
-    color: rgba(50, 50, 50, 0.3);
+    text-decoration: none;
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+a:hover
+{
+    color:darkcyan;
+
+}
+.pic_tree
+{
+    display: block;
+    margin-left : auto;
+    margin-right: auto;
+    margin-top : 100px;
+    margin-bottom: 40px;
+}
+nav
+{
     text-align: center;
-    font-family: helvetica, sans-serif;
-    font-size: 130px;
-    border-style: none;
-    
-    border-color: white;
-    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+.maintitle
+{
+    text-align: center  ;
+    border: solid 2px black;
+    border-radius: 15px;
+    font-size: 80px;
+}
+.Title_photoblog
+{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+.subtitle
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+p.text
+{
+    font-size: 20px;
+    border-left: solid 5px black;
+}
+
+.pic_bee
+{
+    display: block;
+    max-width: 100%;
+    margin-bottom : 40px;
 }
