@@ -1,0 +1,26 @@
+#titlebar
+{
+
+    background-color: black;
+    height 40px;
+    width: 100%;
+    color: white;
+    text-align: right;
+    text-decoration: none;
+}
+#titlebar a
+{
+    color: white;
+    text-decoration: none;
+    list-style-type: disc;
+
+}
+#menu_icon
+{
+    height: 40px ;
+}
+a
+{
+    color :black;
+
+}
