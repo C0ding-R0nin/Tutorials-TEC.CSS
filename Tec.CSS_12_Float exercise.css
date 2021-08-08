@@ -1,26 +1,16 @@
-#titlebar
+.container
 {
-
-    background-color: black;
-    height 40px;
-    width: 100%;
-    color: white;
-    text-align: right;
-    text-decoration: none;
+    background-color: gray;
 }
-#titlebar a
+.box
 {
-    color: white;
-    text-decoration: none;
-    list-style-type: disc;
-
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    float : left;
+    margin : 10px
 }
-#menu_icon
+.clear
 {
-    height: 40px ;
-}
-a
-{
-    color :black;
-
+    clear: both;
 }
