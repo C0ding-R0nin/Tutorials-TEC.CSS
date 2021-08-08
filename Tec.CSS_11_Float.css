@@ -1,0 +1,13 @@
+.container
+{
+    background-color: grey;
+    height: 115px;
+}
+.box
+{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    float : left;
+    margin: 10px ;
+}
