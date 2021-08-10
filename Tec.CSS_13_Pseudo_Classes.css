@@ -1,0 +1,17 @@
+a:link 
+{
+    color: blue ;
+}
+a:visited 
+{
+    color: grey;
+}
+a:focus 
+{
+    color: blueviolet;
+}
+a:hover 
+{
+    background-color:black;
+}
+
