@@ -1,0 +1,28 @@
+html
+{
+    margin: 0%;
+    padding: 0%;
+}
+b
+{
+    display: inline;
+    margin : 50px;
+    width: 500px;
+}
+li
+{
+    display: inline;
+}
+.box
+{
+    background-color: pink;
+    margin: 10px;
+    padding: 20px;
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+}
+.box:hover  p
+{
+    transform: translateX(20px);
+}
